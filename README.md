@@ -1,7 +1,25 @@
 # starterapp
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is an ember starting application. It includes the following non-standard defaults cconfiguration:
+
+## Setup
+* yarn
+* pod structure
+* jsonapi adapter
+ 
+## Addons
+* ember-cli-sass
+* ember-font-awesome
+* ember-composable-helpers
+* ember-truth-helpers
+* ember-component-css
+* liquid-fire
+* ember-data-storefront
+
+To begin your own project, you can replace all occurrences of 'starterapp' with your applications name and begin.
+This my preferred starting place for an ember app.
+
+Replace this section with information about your application.
 
 ## Prerequisites
 
